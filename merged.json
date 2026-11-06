@@ -168,7 +168,7 @@
   },
   {
    "key": "live019",
-   "name": "影视 | 天涯",
+   "name": "🍀天涯资源",
    "type": 1,
    "api": "https://tyyszy.com/api.php/provide/vod",
    "searchable": 1,
@@ -213,7 +213,7 @@
   },
   {
    "key": "live024",
-   "name": "影视 | 电影天堂",
+   "name": "🍀电影天堂",
    "type": 1,
    "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
    "searchable": 1,
@@ -222,18 +222,18 @@
   },
   {
    "key": "live025",
-   "name": "️天堂┃采集",
+   "name": "采集集合+",
    "type": 1,
-   "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8",
+   "api": "https://zhangqun1818.serv00.net/cj/cjjh.php",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
    "key": "live026",
-   "name": "采集集合+",
+   "name": "🍀｜天堂｜采集",
    "type": 1,
-   "api": "https://zhangqun1818.serv00.net/cj/cjjh.php",
+   "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -249,15 +249,6 @@
   },
   {
    "key": "live028",
-   "name": "影视 | 非凡[直连]",
-   "type": 1,
-   "api": "https://ffzy.tv/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "live029",
    "name": "🍀非凡资源",
    "type": 1,
    "api": "https://ffzy5.tv/api.php/provide/vod",
@@ -266,7 +257,7 @@
    "filterable": 1
   },
   {
-   "key": "live030",
+   "key": "live029",
    "name": "🍀非凡API",
    "type": 1,
    "api": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -275,10 +266,19 @@
    "filterable": 1
   },
   {
-   "key": "live031",
+   "key": "live030",
    "name": "🍀非凡线路1",
    "type": 1,
    "api": "https://ffzy1.tv/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "live031",
+   "name": "影视 | 非凡[直连]",
+   "type": 1,
+   "api": "https://ffzy.tv/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -321,15 +321,6 @@
   },
   {
    "key": "live036",
-   "name": "43-HG",
-   "type": 1,
-   "api": "https://hong.hgyx.vip/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "live037",
    "name": "👭播剧影视👭",
    "type": 1,
    "api": "https://www.ysxq.cc/api.php/provide/vod",
@@ -338,7 +329,7 @@
    "filterable": 1
   },
   {
-   "key": "live038",
+   "key": "live037",
    "name": "CNTV低分辨",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/cctv.php",
@@ -347,7 +338,7 @@
    "filterable": 1
   },
   {
-   "key": "live039",
+   "key": "live038",
    "name": "CCTV",
    "type": 1,
    "api": "https://zhangqun19.serv00.net/cctv.php",
@@ -356,7 +347,7 @@
    "filterable": 1
   },
   {
-   "key": "live040",
+   "key": "live039",
    "name": "A站｜星源",
    "type": 1,
    "api": "https://xy.183933.xyz/php/acfun.php/provide/vod",
@@ -365,7 +356,7 @@
    "filterable": 1
   },
   {
-   "key": "live041",
+   "key": "live040",
    "name": "14-量子",
    "type": 1,
    "api": "https://lzizy4.com/api.php/provide/vod",
@@ -374,7 +365,7 @@
    "filterable": 1
   },
   {
-   "key": "live042",
+   "key": "live041",
    "name": "15-量子",
    "type": 1,
    "api": "https://lzizy8.com/api.php/provide/vod",
@@ -383,7 +374,7 @@
    "filterable": 1
   },
   {
-   "key": "live043",
+   "key": "live042",
    "name": "16-量子",
    "type": 1,
    "api": "https://lzizy2.com/api.php/provide/vod",
@@ -392,7 +383,7 @@
    "filterable": 1
   },
   {
-   "key": "live044",
+   "key": "live043",
    "name": "17-量子",
    "type": 1,
    "api": "https://lzizy5.com/api.php/provide/vod",
@@ -401,7 +392,7 @@
    "filterable": 1
   },
   {
-   "key": "live045",
+   "key": "live044",
    "name": "19-量子",
    "type": 1,
    "api": "https://lzizy.net/api.php/provide/vod",
@@ -410,7 +401,7 @@
    "filterable": 1
   },
   {
-   "key": "live046",
+   "key": "live045",
    "name": "20-量子",
    "type": 1,
    "api": "https://lzizy3.com/api.php/provide/vod",
@@ -419,7 +410,7 @@
    "filterable": 1
   },
   {
-   "key": "live047",
+   "key": "live046",
    "name": "旺旺短剧",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/ww.php",
@@ -428,7 +419,7 @@
    "filterable": 1
   },
   {
-   "key": "live048",
+   "key": "live047",
    "name": "🎬电影天堂",
    "type": 1,
    "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8",
@@ -437,7 +428,7 @@
    "filterable": 1
   },
   {
-   "key": "live049",
+   "key": "live048",
    "name": "2-非凡",
    "type": 1,
    "api": "https://cj.ffzyapi.com//api.php/provide/vod",
@@ -446,7 +437,7 @@
    "filterable": 1
   },
   {
-   "key": "live050",
+   "key": "live049",
    "name": "6-非凡",
    "type": 1,
    "api": "https://ffzy3.tv/api.php/provide/vod",
@@ -455,7 +446,7 @@
    "filterable": 1
   },
   {
-   "key": "live051",
+   "key": "live050",
    "name": "7-非凡",
    "type": 1,
    "api": "https://ffzy4.tv/api.php/provide/vod",
@@ -464,7 +455,7 @@
    "filterable": 1
   },
   {
-   "key": "live052",
+   "key": "live051",
    "name": "9-非凡",
    "type": 1,
    "api": "https://www.ffzy.tv/api.php/provide/vod",
@@ -473,7 +464,7 @@
    "filterable": 1
   },
   {
-   "key": "live053",
+   "key": "live052",
    "name": "⚡非凡",
    "type": 1,
    "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
@@ -482,7 +473,7 @@
    "filterable": 1
   },
   {
-   "key": "live054",
+   "key": "live053",
    "name": "52-淘片",
    "type": 1,
    "api": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
@@ -491,7 +482,7 @@
    "filterable": 1
   },
   {
-   "key": "live055",
+   "key": "live054",
    "name": "🔷U酷",
    "type": 1,
    "api": "https://api.ukuapi88.com/api.php/provide/vod/from/ukm3u8",
@@ -500,7 +491,7 @@
    "filterable": 1
   },
   {
-   "key": "live056",
+   "key": "live055",
    "name": "🌠全民┃影视",
    "type": 1,
    "api": "https://www.cmov.cn/api.php/provide/vod",
@@ -509,7 +500,7 @@
    "filterable": 1
   },
   {
-   "key": "live057",
+   "key": "live056",
    "name": "油管播放列表2",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/ytlb1.php",
@@ -518,7 +509,7 @@
    "filterable": 1
   },
   {
-   "key": "live058",
+   "key": "live057",
    "name": "影视播放",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/zh/2243.php",
@@ -527,7 +518,7 @@
    "filterable": 1
   },
   {
-   "key": "live059",
+   "key": "live058",
    "name": "油管播放列表1",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/ytlb.php",
@@ -536,7 +527,7 @@
    "filterable": 1
   },
   {
-   "key": "live060",
+   "key": "live059",
    "name": "油管清单播放",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/zh/yt/2243.php",
@@ -545,7 +536,7 @@
    "filterable": 1
   },
   {
-   "key": "live061",
+   "key": "live060",
    "name": "服务器油管",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/yt/yt0021.php",
@@ -554,7 +545,7 @@
    "filterable": 1
   },
   {
-   "key": "live062",
+   "key": "live061",
    "name": "移动｜星源",
    "type": 1,
    "api": "https://xy.183933.xyz/php/pt.php/provide/vod",
@@ -563,7 +554,7 @@
    "filterable": 1
   },
   {
-   "key": "live063",
+   "key": "live062",
    "name": "js集合",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/js.php",
@@ -572,7 +563,7 @@
    "filterable": 1
   },
   {
-   "key": "live064",
+   "key": "live063",
    "name": "老张影视",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/zh/2242.php",
@@ -581,7 +572,7 @@
    "filterable": 1
   },
   {
-   "key": "live065",
+   "key": "live064",
    "name": "👭赤铜👭",
    "type": 1,
    "api": "https://pg.cttv.vip/api.php/provide/vod",
@@ -590,7 +581,7 @@
    "filterable": 1
   },
   {
-   "key": "live066",
+   "key": "live065",
    "name": "👭荐片33333👭",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/jianpian.php",
@@ -599,10 +590,19 @@
    "filterable": 1
   },
   {
-   "key": "live067",
+   "key": "live066",
    "name": "dd资源",
    "type": 1,
    "api": "https://dd.jzcbed.xyz/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "live067",
+   "name": "43-HG",
+   "type": 1,
+   "api": "https://hong.hgyx.vip/api.php/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -726,7 +726,7 @@
   },
   {
    "key": "live081",
-   "name": "影视 | 索尼[直连]",
+   "name": "站点",
    "type": 0,
    "api": "https://suoniapi.com/api.php/provide/vod/at/xml",
    "searchable": 1,
@@ -762,15 +762,6 @@
   },
   {
    "key": "live085",
-   "name": "iKun资源",
-   "type": 0,
-   "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "live086",
    "name": "魔都资源采集网",
    "type": 0,
    "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml",
@@ -779,19 +770,28 @@
    "filterable": 1
   },
   {
-   "key": "live087",
-   "name": "暴风影视",
+   "key": "live086",
+   "name": "iKun资源",
    "type": 0,
-   "api": "https://by.bfzyapi.com/api.php/provide/vod/at/xml",
+   "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "live087",
+   "name": "aqy",
+   "type": 0,
+   "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
    "key": "live088",
-   "name": "aqy",
+   "name": "暴风影视",
    "type": 0,
-   "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml",
+   "api": "https://by.bfzyapi.com/api.php/provide/vod/at/xml",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -825,51 +825,6 @@
   },
   {
    "key": "live092",
-   "name": "OK资源",
-   "type": 0,
-   "api": "https://api.okzyw.net/api.php/provide/vod/from/okm3u8/at/xml",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "live093",
-   "name": "U酷资源",
-   "type": 0,
-   "api": "https://api.ukuapi88.com/api.php/provide/vod/at/xmlsea",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "live094",
-   "name": "牛牛资源",
-   "type": 0,
-   "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "live095",
-   "name": "闪电资源",
-   "type": 0,
-   "api": "https://shandianzy.com/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "live096",
-   "name": "鸭鸭资源2",
-   "type": 0,
-   "api": "https://yayazy2.com/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "live097",
    "name": "U酷影视",
    "type": 0,
    "api": "https://api.ukuapi88.com/api.php/provide/vod/from/ukm3u8/at/xml",
@@ -878,7 +833,7 @@
    "filterable": 1
   },
   {
-   "key": "live098",
+   "key": "live093",
    "name": "柚子影视",
    "type": 0,
    "api": "https://api.yzzy-api.com/inc/api.php/provide/vod/at/xml",
@@ -887,7 +842,7 @@
    "filterable": 1
   },
   {
-   "key": "live099",
+   "key": "live094",
    "name": "量子影视(2)",
    "type": 0,
    "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml",
@@ -896,10 +851,55 @@
    "filterable": 1
   },
   {
-   "key": "live100",
+   "key": "live095",
    "name": "非凡影视",
    "type": 0,
    "api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "live096",
+   "name": "OK资源",
+   "type": 0,
+   "api": "https://api.okzyw.net/api.php/provide/vod/from/okm3u8/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "live097",
+   "name": "U酷资源",
+   "type": 0,
+   "api": "https://api.ukuapi88.com/api.php/provide/vod/at/xmlsea",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "live098",
+   "name": "牛牛资源",
+   "type": 0,
+   "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "live099",
+   "name": "闪电资源",
+   "type": 0,
+   "api": "https://shandianzy.com/api.php/provide/vod/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "live100",
+   "name": "鸭鸭资源2",
+   "type": 0,
+   "api": "https://yayazy2.com/api.php/provide/vod/at/xml",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
