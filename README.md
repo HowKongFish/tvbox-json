@@ -8,9 +8,16 @@
 
 ## 一、地址
 
+主用（直连）：
+
     https://raw.githubusercontent.com/<用户名>/<仓库名>/main/merged.json
 
-直接复制这一整行即可。文件更新后即时生效，无缓存延迟。
+连不上时用下面任意一条（内容一模一样，前缀式加速，换个域名而已）：
+
+    https://gh-proxy.com/https://raw.githubusercontent.com/<用户名>/<仓库名>/main/merged.json
+    https://gh-proxy.org/https://raw.githubusercontent.com/<用户名>/<仓库名>/main/merged.json
+
+地址更新后即时生效，无缓存延迟。公共加速服务偶尔会挂，哪条能连用哪条。
 
 ---
 
@@ -53,7 +60,7 @@
 ## 五、常见问题
 
 **导入后站点列表是空的？**
-先重新复制一次地址（确认没有多余空格/换行）；再检查客户端是否允许 http 跳转，个别老版本只认 `http`。
+先用「一、地址」里另一条加速地址试（确认没有多余空格/换行）；再检查客户端是否允许 http 跳转，个别老版本只认 `http`。
 
 **能搜到片但播放失败？**
 该站点的点播解析依赖客户端内置 spider，或资源本身挂了。换个站点试，不要在这个站上耗。
