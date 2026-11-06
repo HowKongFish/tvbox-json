@@ -8,12 +8,9 @@
 
 ## 一、地址
 
-| 用途 | 地址 |
-|---|---|
-| **首选**（国内更快，CDN 缓存） | `https://cdn.jsdelivr.net/gh/<用户名>/<仓库名>@main/merged.json` |
-| 备用（实时，未经 CDN） | `https://raw.githubusercontent.com/<用户名>/<仓库名>/main/merged.json` |
+    https://raw.githubusercontent.com/<用户名>/<仓库名>/main/merged.json
 
-两条内容完全一样。jsDelivr 有缓存，推送后一般几分钟内生效；raw 是即时生效但国内偶尔连不上。
+直接复制这一整行即可。文件更新后即时生效，无缓存延迟。
 
 ---
 
@@ -56,7 +53,7 @@
 ## 五、常见问题
 
 **导入后站点列表是空的？**
-换另一条地址重试（jsDelivr ↔ raw）；或检查客户端是否允许 http 跳转；个别老版本只认 `http`。
+先重新复制一次地址（确认没有多余空格/换行）；再检查客户端是否允许 http 跳转，个别老版本只认 `http`。
 
 **能搜到片但播放失败？**
 该站点的点播解析依赖客户端内置 spider，或资源本身挂了。换个站点试，不要在这个站上耗。
