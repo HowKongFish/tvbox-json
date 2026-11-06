@@ -10,12 +10,12 @@
 
 主用（直连）：
 
-    https://raw.githubusercontent.com/<用户名>/<仓库名>/main/merged.json
+    https://raw.githubusercontent.com/Bingbiy/tvbox-json/main/merged.json
 
 连不上时用下面任意一条（内容一模一样，前缀式加速，换个域名而已）：
 
-    https://gh-proxy.com/https://raw.githubusercontent.com/<用户名>/<仓库名>/main/merged.json
-    https://gh-proxy.org/https://raw.githubusercontent.com/<用户名>/<仓库名>/main/merged.json
+    https://gh-proxy.com/https://raw.githubusercontent.com/Bingbiy/tvbox-json/main/merged.json
+    https://gh-proxy.org/https://raw.githubusercontent.com/Bingbiy/tvbox-json/main/merged.json
 
 地址更新后即时生效，无缓存延迟。公共加速服务偶尔会挂，哪条能连用哪条。
 
