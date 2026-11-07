@@ -68,6 +68,24 @@
       "filterable": 1
     },
     {
+      "key": "live070",
+      "name": "爱瓜TV",
+      "type": 1,
+      "api": "https://zhangqun1818.serv00.net/aigua1.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "live069",
+      "name": "php集合",
+      "type": 1,
+      "api": "https://zhangqun1818.serv00.net/php.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "live015",
       "name": "量子资源",
       "type": 1,
@@ -216,15 +234,6 @@
       "name": "如意｜采集",
       "type": 1,
       "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "live070",
-      "name": "爱瓜TV",
-      "type": 1,
-      "api": "https://zhangqun1818.serv00.net/aigua1.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -639,15 +648,6 @@
       "name": "👭荐片33333👭",
       "type": 1,
       "api": "https://zhangqun1818.serv00.net/jianpian.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "live069",
-      "name": "php集合",
-      "type": 1,
-      "api": "https://zhangqun1818.serv00.net/php.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
